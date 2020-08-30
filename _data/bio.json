@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science with a Minor in Mathematics at the Aurora University. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "60554",
+      "postalCode": "",
       "city": "Aurora",
       "countryCode": "USA",
       "region": "Illinois"
@@ -46,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Computer",
       "level": "",
       "keywords": [
         "Java",
@@ -85,15 +85,39 @@
       "summary": "Retail Team Member",
       "highlights": [
         "Provide customer service addressing any customer needs in a timely and effective manner.",
-        " Maximize sales through effectivee and proper procedures for prepping, rotating, stocking and merchandising products."
+        "Maximize sales through effectivee and proper procedures for prepping, rotating, stocking and merchandising products."
+      ]
+    },
+    {
+      "company": "Prairie Path Cycles",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "2018-03-01",
+      "summary": "Sales",
+      "highlights": [
+        "Manage the cash register as well as assisting bike mechanics in writing up work orders.",
+        "Checking in orders from vendors and making sure products are stocked on shelves."
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
+      "title": "National Honor Society",
       "date": "",
-      "awarder": "",
+      "awarder": "West Chicago Community High School",
+      "summary": ""
+    },
+    {
+      "title": "National Foreign Language Honor Society",
+      "date": "",
+      "awarder": "West Chicago Community High School",
+      "summary": ""
+    },
+    {
+      "title": "West Chicago Rotary Club Interact Scholarship",
+      "date": "2017-05-31",
+      "awarder": "West Chicago Community High School",
       "summary": ""
     }
   ],
