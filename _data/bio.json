@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jackeline Escalante",
     "label": "Student",
-    "picture": "https://jescalante02.github.io/images/photo1.png",
+    "picture": "https://jescalante02.github.io/images/photo1.jpg",
     "email": "jescalante02@aurora.edu",
     "phone": "630-818-0683",
     "website": "https://jescalante02.github.io",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Web Developer",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Software Developer",
       "keywords": [
       ]
     }
