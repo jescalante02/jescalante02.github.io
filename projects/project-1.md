@@ -11,7 +11,6 @@ labels:
   - CSS
   
 summary: This assignment is a website indroducing myself.
-projecturl:http://localhost:63342/bootstrap_in_class/portfolio.html
 ---
 
 <div class="ui small rounded images">
