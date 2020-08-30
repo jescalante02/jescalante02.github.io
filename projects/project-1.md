@@ -8,7 +8,7 @@ permalink: projects/micromouse
 date: 2018-01-01
 labels:
   
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Yet to fill.
 ---
 
 <div class="ui small rounded images">
