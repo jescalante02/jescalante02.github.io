@@ -11,7 +11,6 @@ labels:
   - CSS
   
 summary: This assignment is a website introducing myself.
-projecturl: https://github.com/jescalante02/About-Me
 ---
 
 <div class="ui small rounded images">
